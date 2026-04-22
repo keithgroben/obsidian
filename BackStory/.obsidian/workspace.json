@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "ab22e927e40f1afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89ab17eb883af9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a214a36315639e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPORT-BIO_INFORMATION_FOR_AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EXPORT-BIO_INFORMATION_FOR_AI"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7bf2ac158d2e8064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb03a1fe024ee6d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a4a05ed0df1ec96",
+    "type": "split",
+    "children": [
+      {
+        "id": "f669c4616634096f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffe45d5e8be66bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc1fe037470c1487",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dcb80e2f7ebab3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d849df210701704",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e2c6e2792dda4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024fb57cba3e6de6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EXPORT-BIO_INFORMATION_FOR_AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EXPORT-BIO_INFORMATION_FOR_AI"
+            }
+          },
+          {
+            "id": "6a01c7a033704bd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EXPORT-BIO_INFORMATION_FOR_AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from EXPORT-BIO_INFORMATION_FOR_AI"
+            }
+          },
+          {
+            "id": "c12e36b2e1db4f24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7967851e267f36c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a75b3f562792fa16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EXPORT-BIO_INFORMATION_FOR_AI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EXPORT-BIO_INFORMATION_FOR_AI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2fb03a1fe024ee6d",
+  "lastOpenFiles": [
+    "EXPORT-BIO_INFORMATION_FOR_AI.md",
+    "Welcome.md",
+    "CREDENTIALS-SALES_CLOSING_METHODOLOGY.md",
+    "CREDENTIALS-SALARY_AND_FINANCIAL_JOURNEY.md",
+    "CREDENTIALS-RESUME.md",
+    "CREDENTIALS-MARKETING_PORTFOLIO.md",
+    "CREDENTIALS-MARKETING_LESSONS_FRAMEWORK.md",
+    "CREDENTIALS-MARKETING_DIRECTOR_ROLE_DETAILS.md",
+    "CREDENTIALS-CRM_AND_PIPELINE_EXPERTISE.md",
+    "CREDENTIALS-BIO.md",
+    "TIMELINES-TIMELINE_MENU_TREE.md",
+    "TIMELINES-SUPPORTING_MATERIALS.md",
+    "TIMELINES-CHRONOLOGICAL_TIMELINE.md",
+    "STORIES-THE_TWO_CULTS_STORY.md",
+    "STORIES-MOTHERS_DEATH_STORY.md",
+    "STORIES-ESCAPING_TOXIC_ENVIRONMENTS.md",
+    "STORIES-CAMPER_SEASON_DETAILS.md",
+    "STORIES-BREAKTHROUGH_STORIES.md",
+    "STORIES-ALMOST_QUIT_MOMENTS.md",
+    "README.md",
+    "PROJECT_INSTRUCTIONS.md",
+    "POSITIONING-THEOLOGICAL_DISTINCTIVES.md",
+    "POSITIONING-STACIE_PERSPECTIVE.md",
+    "POSITIONING-LIFE_PATTERNS_AND_STORYTELLING.md"
+  ]
+}
