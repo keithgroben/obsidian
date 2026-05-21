@@ -542,7 +542,7 @@ Can point to specific revenue numbers:
 
 ---
 
-### Credential for Fractional CMO Positioning
+### Credential for Domain Translator Positioning
 
 **What This Enables Keith to Offer:**
 

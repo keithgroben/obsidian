@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPORT-BIO_INFORMATION_FOR_AI.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPORT-BIO_INFORMATION_FOR_AI"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7bf2ac158d2e8064",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2fb03a1fe024ee6d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Welcome"
             }
           }
         ]
@@ -199,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fb03a1fe024ee6d",
+  "active": "9a214a36315639e9",
   "lastOpenFiles": [
     "EXPORT-BIO_INFORMATION_FOR_AI.md",
     "Welcome.md",

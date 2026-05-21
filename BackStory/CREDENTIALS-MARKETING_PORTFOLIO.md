@@ -9,13 +9,13 @@ high-ticket sales closing expertise. His track record includes driving
 systematic approaches that generate measurable ROI across multiple
 industries. Unlike traditional marketers, Keith understands the complete
 customer journey from first touch to signed contract, having personally
-closed multiple high-ticket residential deals (\$15,000-\$25,000) within
+closed multiple high-ticket residential deals (\$35,000-\$85,000) within
 2 hours of first meeting while simultaneously building the marketing
 systems that feed the sales pipeline.
 
 ## **US Solar Marketing Leadership (2019-2024)**
 
-### **\$6M to \$60M Revenue Growth Achievement**
+### **\$3M to \$60M Revenue Growth Achievement**
 
 **Team & Content Production Mastery:**
 
@@ -313,7 +313,7 @@ systems that feed the sales pipeline.
 **Sales Team CRM Optimization:**
 
 -   **High-Ticket Focus:** Designed for residential sales ranging
-    > \$15,000-\$25,000
+    > \$35,000-\$85,000
 
 -   **Pipeline Management:** Complete visibility from lead generation to
     > contract signing
@@ -341,7 +341,7 @@ systems that feed the sales pipeline.
 
 **Direct Sales Performance:**
 
--   **Deal Size:** Multiple residential contracts in \$15,000-\$25,000
+-   **Deal Size:** Multiple residential contracts in \$35,000-\$85,000
     > range
 
 -   **Closing Timeline:** 2 hours from first meeting to signed contract

@@ -329,7 +329,7 @@ Keith's persistence built his career ($60M success) but same persistence kept hi
 
 **Rapid Promotion (Age 40-41)**: Sales to Director to $60M growth
 - Sales success → Marketing Director promotion
-- Then company scaled from $6M to $60M
+- Then company scaled from $3M to $60M
 - Vindication of obedience to resign pastorate
 - Prosperity promise manifested beyond imagination
 
@@ -459,7 +459,7 @@ Keith's persistence built his career ($60M success) but same persistence kept hi
 - **Team Leadership**: From pastoral experience and corporate application
 
 **Success Without Bachelor's Degree (Age 22-46)**:
-- Marketing Director at company that grew $6M → $60M (Age 40-45)
+- Marketing Director at company that grew $3M → $60M (Age 40-45)
 - Led 8-person marketing team across 4 brands
 - $4.3M in sales training results
 - $2M from single investment letter
@@ -944,7 +944,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 ---
 
 **3. Why Ohio & Why Leave US Solar**
-- **Why leave US Solar** after achieving such incredible success ($6M→$60M)? What happened in July 2024?
+- **Why leave US Solar** after achieving such incredible success ($3M→$60M)? What happened in July 2024?
 - **Why Ashland, Ohio specifically?** (Family connections? Church? Remote work flexibility? Cost of living? Job opportunity? Divine direction?)
 - How did **Jackson (16) and Khloe (12)** feel about moving again mid-school?
 - Did **Kaylie and Jordan stay in Florida** when parents moved to Ohio, or did they move too?
@@ -1162,7 +1162,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 
 **Hook Options for LinkedIn Posts**:
 1. "I lived in a camper with my wife and 4 kids for a year. Here's why it was the best business decision I ever made."
-2. "I resigned as a pastor with no backup plan. 6 years later, I helped scale a company from $6M to $60M."
+2. "I resigned as a pastor with no backup plan. 6 years later, I helped scale a company from $3M to $60M."
 3. "The near-death experience that led to my biggest career breakthrough."
 4. "How a 2.5-year panic disorder became my greatest teacher in resilience and leadership."
 5. "I dropped out of two colleges. Then I became a Marketing Director without a Bachelor's degree. Here's how."
@@ -1181,7 +1181,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 - **Family values**: Made major career decisions with family unity as priority
 
 **Proof Points for Credibility**:
-- $6M → $60M revenue growth in 2 years
+- $3M → $60M revenue growth in 2 years
 - #2 most reviewed solar company in United States
 - $4.3M in sales training results over 18 months
 - $2M ROI from single investment letter
@@ -1299,7 +1299,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 - "He Quit His Secure Job to Live in a Camper - 6 Years Later He'd Helped Grow a $60M Company"
 
 **Business/Success Headlines**:
-- "How I Scaled a Company From $6M to $60M Without a Bachelor's Degree"
+- "How I Scaled a Company From $3M to $60M Without a Bachelor's Degree"
 - "The Self-Taught Marketing Executive Who Outperformed Ivy League Competitors"
 - "Why I Quit My Secure Job to Live in a Camper - And Why It Worked"
 - "From Room Service to Marketing Director: The Unconventional Path to Executive Success"
@@ -1409,7 +1409,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 - **Systematic Thinking**: From first innovation (Digitell price cards) to CRM development - creates scalable solutions
 
 **Proof Points**:
-- $6M → $60M in 2 years (10x growth)
+- $3M → $60M in 4 years (20x growth)
 - #2 most reviewed solar company in US
 - $4.3M sales training results
 - $2M from single investment letter
@@ -1564,7 +1564,7 @@ Keith repeatedly created massive value while being undercompensated - a pattern 
 - Panic disorder starting to resolve
 - From religious poverty → biblical prosperity mindset
 - April 2020: From drywall → Marketing Director
-- From $6M → $60M company scale
+- From $3M → $60M company scale
 - From wilderness → vindication
 
 ### Resolution Moments:
@@ -2268,7 +2268,7 @@ This is the most spiritually powerful pattern:
 
 - **Promise fulfilled (age 40-45)**
   - Sales job → Marketing Director
-  - $6M → $60M company growth
+  - $3M → $60M company growth
   - Prosperity manifested beyond imagination
   - Family intact and stronger
   - Panic resolving as success came
@@ -2301,7 +2301,7 @@ This needs to be elevated in storytelling:
 
 ### The Most Compelling Hook for Each Platform
 
-**LinkedIn:** "I lived in a camper with 4 kids for a year. Then I helped scale a company from $6M to $60M. Here's what the wilderness taught me about breakthrough."
+**LinkedIn:** "I lived in a camper with 4 kids for a year. Then I helped scale a company from $3M to $60M. Here's what the wilderness taught me about breakthrough."
 
 **Podcast:** "How a pastor became a marketing executive without a Bachelor's degree - and why the 10 years of sermons were better than an MBA."
 

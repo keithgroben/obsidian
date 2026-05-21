@@ -113,7 +113,7 @@ From ministry, Keith learned:
 
 **The 2-Hour Framework:**
 
-Keith closed $15K-$25K deals in approximately 2-hour appointments. Here's how trust was built quickly:
+Keith closed $35K-$85K deals in approximately 2-hour appointments. Here's how trust was built quickly:
 
 **First 15 Minutes - Establish Human Connection:**
 - Don't start with solar panels or pricing

@@ -2,23 +2,23 @@
 
 ## One-Liner (Social Media Profiles)
 
-Fractional CMO | Marketing Director who grew a company from $3M to $60M | Former pastor turned marketplace minister | Teaching faith-based entrepreneurs to build with integrity and measurable results.
+Domain Translator | Marketing Director who grew a company from $3M to $60M | Former pastor turned marketplace minister | Teaching faith-based entrepreneurs to build with integrity and measurable results.
 
 ---
 
 ## Short Bio (150 words - Podcast Intros, Speaker Sheets)
 
-Keith Groben is a Fractional CMO and marketing strategist with a unique 20-year journey from pastoral ministry to marketplace leadership. As Marketing Director at Zone 5 (US Solar), he built a team from 0 to 8 people on a $1,500/month budget and helped drive company growth from $3M to $60M in revenue.
+Keith Groben is a Domain Translator — the bridge between how a business actually works and how it should — with a unique 20-year journey from pastoral ministry to marketplace leadership. As Marketing Director at Zone 5 (US Solar), he built a team from 0 to 8 people on a $1,500/month budget and helped drive company growth from $3M to $60M in revenue.
 
 Keith's unconventional background—10 years as Senior Pastor, prison guard, room service at the Scottsdale Princess, and freelance designer—gives him pattern recognition abilities that traditional marketers lack. He spotted the 2008 economic crisis 6 months early, survived two cult-like environments, and learned to build marketing systems with excellence while operating on shoestring resources.
 
-Now serving faith-based businesses as Fractional CMO, Keith teaches marketplace integration, results-based faith, and how to build Kingdom businesses with integrity. He and his wife Stacie have four adult children and live in Ohio.
+Now serving faith-based businesses as a Domain Translator, Keith teaches marketplace integration, results-based faith, and how to build Kingdom businesses with integrity. He and his wife Stacie have four adult children and live in Ohio.
 
 ---
 
 ## Full Bio (400 words - Speaking Engagements, Press Kit, Book Jacket)
 
-Keith Groben's journey from Indiana coal country to Fractional CMO reads like an unconventional masterclass in pattern recognition, crisis navigation, and marketplace ministry.
+Keith Groben's journey from Evansville, Indiana to Domain Translator reads like an unconventional masterclass in pattern recognition, crisis navigation, and marketplace ministry.
 
 **The Unlikely Path to Marketing Leadership**
 
@@ -38,7 +38,7 @@ Keith's experience escaping two cult-like environments—Bethel Church influence
 
 **Current Mission**
 
-Now serving as Fractional CMO for faith-based businesses, Keith teaches seven theological distinctives that integrate marketplace success with Kingdom integrity: results-based faith, prosperity theology done correctly, ministry through business, discernment over hype, excellence as worship, integration not compartmentalization, and stewardship over empire building.
+Now serving faith-based businesses as a Domain Translator, Keith teaches seven theological distinctives that integrate marketplace success with Kingdom integrity: results-based faith, prosperity theology done correctly, ministry through business, discernment over hype, excellence as worship, integration not compartmentalization, and stewardship over empire building.
 
 Keith's message creates community for faith-based entrepreneurs who are tired of hype, ready for substance, and committed to building businesses that fund mission rather than feed ego. He and his wife Stacie have been married since 2001 and have four adult children: Kaylie, Jordan, Jackson, and Khloe.
 
@@ -51,14 +51,14 @@ Keith's message creates community for faith-based entrepreneurs who are tired of
 - Marketing Director: $3M → $60M company growth (Zone 5/US Solar)
 - Built marketing team from 0 to 8 people on $1,500/month budget
 - 10 years Senior Pastor, Calvary Assembly of God (Ely, Nevada)
-- Fractional CMO serving faith-based businesses
-- Closed 18 high-ticket solar deals ($15K-$25K) personally
+- Domain Translator serving faith-based businesses
+- Closed 18 high-ticket solar deals ($35K-$85K) personally
 
 **Unique Qualifications:**
 - Survived two cult-like environments (pattern recognition expert)
 - 10 years weekly sermon preparation (communication/copywriting mastery)
 - Navigated 2008 crisis, camper wilderness, panic disorder, toxic workplace
-- Prison guard → Pastor → Marketing Director → Fractional CMO
+- Prison guard → Pastor → Marketing Director → Domain Translator
 
 **Faith-Based Entrepreneur Positioning:**
 - Results-based faith vs. performance-based acceptance

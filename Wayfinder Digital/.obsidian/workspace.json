@@ -11,10 +11,14 @@
             "id": "f450c250c6777cea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Buried Operator ICP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Buried Operator ICP"
             }
           }
         ]

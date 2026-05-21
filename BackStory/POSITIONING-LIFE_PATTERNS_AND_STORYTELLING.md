@@ -111,7 +111,7 @@ This is the most spiritually powerful pattern:
 
 - **Promise fulfilled (age 40-45)**
   - Sales job → Marketing Director
-  - $6M → $60M company growth
+  - $3M → $60M company growth
   - Prosperity manifested beyond imagination
   - Family intact and stronger
   - Panic resolving as success came
@@ -166,7 +166,7 @@ This needs to be elevated in your storytelling:
 
 ## **The Most Compelling "Hook" for Each Platform:**
 
-**LinkedIn:** "I lived in a camper with 4 kids for a year. Then I helped scale a company from $6M to $60M. Here's what the wilderness taught me about breakthrough."
+**LinkedIn:** "I lived in a camper with 4 kids for a year. Then I helped scale a company from $3M to $60M. Here's what the wilderness taught me about breakthrough."
 
 **Podcast:** "How a pastor became a marketing executive without a Bachelor's degree - and why the 10 years of sermons were better than an MBA."
 

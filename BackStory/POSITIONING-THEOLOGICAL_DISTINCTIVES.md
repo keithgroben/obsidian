@@ -98,7 +98,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 **Wilderness → Breakthrough Pattern:**
 - Testing is part of the process (Keith's Tampa season)
 - Character developed in pressure (camper, panic disorder, financial desperation)
-- Promotion after proving (wilderness → Marketing Director → Fractional CMO)
+- Promotion after proving (wilderness → Marketing Director → Domain Translator)
 - Breakthrough is real but comes after refinement
 
 #### The Leadership Gap Keith Fills
@@ -223,7 +223,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 #### How This Plays Out
 
 **Keith's Current Model:**
-- Fractional CMO services for faith-based businesses
+- Domain Translator services for faith-based businesses
 - Marketing strategies that honor God
 - Business mentorship with spiritual foundation
 - Helping Christian entrepreneurs thrive with integrity
@@ -327,7 +327,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 - Excellence with limited resources = worship
 
 **In Current Business:**
-- Fractional CMO with proven track record
+- Domain Translator with proven track record
 - Professional systems and strategies
 - Delivers measurable results for clients
 - Reputation built on excellence, not hype
@@ -458,7 +458,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 - "He who is faithful in a very little thing is faithful also in much"
 - Prove faithful with little before receiving much
 - Stewardship in small tested before large entrusted
-- Keith's pattern: faithful in camper → entrusted with Marketing Director → now Fractional CMO
+- Keith's pattern: faithful in camper → entrusted with Marketing Director → now Domain Translator
 
 **1 Timothy 6:17-19:**
 - "Instruct those who are rich in this present world not to be conceited or to fix their hope on the uncertainty of riches, but on God"
@@ -490,7 +490,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 - Walked away to maintain integrity
 - Stewardship means knowing when to leave, not just when to stay
 
-**Current Fractional CMO Model:**
+**Current Domain Translator Model:**
 - Serves multiple clients (not building personal empire)
 - Helps others succeed (not just self-promotion)
 - Teaches from experience (giving back)
@@ -573,7 +573,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 - Avoiding toxic environments (discernment lessons)
 - Building with integrity (stewardship over empire)
 
-**Fractional CMO Marketing:**
+**Domain Translator Marketing:**
 - Excellence as worship (quality work reflects on God)
 - Proven results (not hype, but track record)
 - Integrity-based strategies (won't compromise values for metrics)
@@ -635,7 +635,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 ### Podcast Interview Talking Points
 
 **When Asked About Background:**
-- Lead with integration: 10 years pastoral + Marketing Director + Fractional CMO
+- Lead with integration: 10 years pastoral + Marketing Director + Domain Translator
 - "Ministry didn't end, it shifted context. Business is mission field."
 
 **When Asked About Theology:**
@@ -695,7 +695,7 @@ This document articulates Keith Groben's theological and spiritual distinctives 
 - Luke 10:1 (72 evangelists sent ahead)
 
 **Brand Positioning:**
-- Fractional CMO for faith-based businesses
+- Domain Translator for faith-based businesses
 - Marketing strategist with ministry background
 - Discernment teacher forged through testing
 - Integration advocate (faith + business)

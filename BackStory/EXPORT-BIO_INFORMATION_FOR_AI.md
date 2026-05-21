@@ -12,7 +12,7 @@
 ### Who Keith Is NOW (2025)
 
 **Professional Identity:**
-- Fractional CMO serving faith-based businesses
+- Domain Translator serving faith-based businesses
 - Marketing strategist with 20+ years experience
 - Former 10-year Senior Pastor turned marketplace minister
 - Pattern recognition expert (escaped two cult-like environments)
@@ -493,7 +493,7 @@ He teaches **biblical prosperity done correctly** through lived experience:
 
 ### Professional Hooks:
 
-1. "Fractional CMO who grew a company from $3M to $60M | Former pastor turned marketplace minister"
+1. "Domain Translator who grew a company from $3M to $60M | Former pastor turned marketplace minister"
 
 2. "Marketing Director who built a team from 0 to 8 people on a $1,500/month budget and drove 20x revenue growth"
 
@@ -529,7 +529,7 @@ He teaches **biblical prosperity done correctly** through lived experience:
 
 ### Transformation Hooks:
 
-1. "Prison guard → Pastor → Marketing Director → Fractional CMO: Unconventional path, pattern recognition superpower"
+1. "Prison guard → Pastor → Marketing Director → Domain Translator: Unconventional path, pattern recognition superpower"
 
 2. "From food stamps as a pastor to Marketing Director at $60M company in 2 years. Wilderness-to-breakthrough is real."
 
@@ -618,7 +618,7 @@ He teaches **biblical prosperity done correctly** through lived experience:
 "I create community for faith-based entrepreneurs who are tired of hype, ready for substance, and committed to building businesses that fund mission rather than feed ego. Through teaching forged in wilderness, proven through $60M breakthrough, and refined by escaping two toxic environments, I help marketplace ministers achieve results-based faith outcomes with integrity."
 
 ### Option 2: Pattern-Focused
-"I teach pattern recognition for faith-based entrepreneurs: how to spot breakthrough opportunities one door past where you want to quit, identify toxic environments before wasting years, and apply biblical prosperity correctly (testing → character → promotion → breakthrough). My 20-year journey from pastor to Marketing Director to Fractional CMO proves these patterns are real, repeatable, and available to anyone willing to walk them out."
+"I teach pattern recognition for faith-based entrepreneurs: how to spot breakthrough opportunities one door past where you want to quit, identify toxic environments before wasting years, and apply biblical prosperity correctly (testing → character → promotion → breakthrough). My 20-year journey from pastor to Marketing Director to Domain Translator proves these patterns are real, repeatable, and available to anyone willing to walk them out."
 
 ### Option 3: Transformation-Focused
 "I help faith-based entrepreneurs transform wilderness seasons into marketplace breakthroughs. Using 7 theological distinctives forged through 10 years pastoral ministry, 8 months in a camper, and $60M company growth, I teach how to integrate faith and business, achieve measurable results through prayer, and build with excellence while maintaining integrity."

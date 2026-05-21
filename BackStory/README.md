@@ -67,7 +67,7 @@ Theological distinctives, life patterns, and strategic positioning for faith-bas
 
 ## 💼 CREDENTIALS - Client-Facing Materials
 
-**Purpose:** Resumes, portfolios, and professional documentation for fractional CMO positioning.
+**Purpose:** Resumes, portfolios, and professional documentation for Domain Translator positioning.
 
 | File | Size | Description | Use Case |
 |------|------|-------------|----------|
@@ -123,7 +123,7 @@ Theological distinctives, life patterns, and strategic positioning for faith-bas
 → [MARKETING_DIRECTOR_ROLE_DETAILS.md](CREDENTIALS-MARKETING_DIRECTOR_ROLE_DETAILS.md) - Specific metrics
 → [BIO.md](CREDENTIALS-BIO.md) - LinkedIn summary
 
-### **Pitching Fractional CMO Services?**
+### **Pitching Domain Translator Services?**
 → [MARKETING_PORTFOLIO.md](CREDENTIALS-MARKETING_PORTFOLIO.md) - Show results
 → [MARKETING_DIRECTOR_ROLE_DETAILS.md](CREDENTIALS-MARKETING_DIRECTOR_ROLE_DETAILS.md) - $3M→$60M growth
 → [CRM_AND_PIPELINE_EXPERTISE.md](CREDENTIALS-CRM_AND_PIPELINE_EXPERTISE.md) - Systems & technical expertise
@@ -162,7 +162,7 @@ Theological distinctives, life patterns, and strategic positioning for faith-bas
 - 10 years Senior Pastor (2008-2018)
 - Survived 2 cult-like environments (pattern recognition)
 - Family of 6 lived in camper 8 months (wilderness testing)
-- Closed 18 high-ticket solar deals personally ($15K-$25K)
+- Closed 18 high-ticket solar deals personally ($35K-$85K)
 - 24+ years married to Stacie (since 2001)
 
 ---
@@ -188,7 +188,7 @@ This repository serves as the foundation for:
 - **LinkedIn content** and professional branding
 - **Podcast and media** interview preparation
 - **Speaking engagements** and workshop content
-- **Fractional CMO** client proposals and credentials
+- **Domain Translator** client proposals and credentials
 - **Book/documentary** structure planning
 - **Faith-based entrepreneur** community building
 - **Personal brand storytelling** across platforms

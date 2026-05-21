@@ -994,7 +994,7 @@
 **7. Stewardship Over Empire Building**
 - Wealth and success fund mission and family, not personal validation
 - Matthew 25:14-30: faithful stewards multiply what they're given
-- Keith proved faithful in camper → entrusted with Marketing Director → Fractional CMO
+- Keith proved faithful in camper → entrusted with Marketing Director → Domain Translator
 - Left $60M success because values mattered more than money and platform
 - Stewardship means knowing when to leave, not just when to stay
 
@@ -1002,7 +1002,7 @@
 - LinkedIn post ideas from each distinctive
 - Podcast interview talking points
 - Speaking engagement frameworks
-- Fractional CMO marketing positioning
+- Domain Translator marketing positioning
 
 ### Timeline Confirmation
 
@@ -1034,7 +1034,7 @@
 - Younger brother (who they were visiting when accident happened)
 - Specific miraculous provision stories beyond documented ones
 - How theological distinctives developed over time
-- Application of distinctives in current Fractional CMO work
+- Application of distinctives in current Domain Translator work
 
 ---
 
@@ -1135,7 +1135,7 @@
 - Custom database conversions
 
 **Professional Credential Value:**
-- Unique differentiator for Fractional CMO positioning
+- Unique differentiator for Domain Translator positioning
 - Spiritual + business integration (journey mapping)
 - Proven ROI with specific numbers
 - Multiple industries (church, roofing, solar, water, graphics)
