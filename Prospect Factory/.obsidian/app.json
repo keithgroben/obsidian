@@ -1,1 +1,7 @@
-{}
+{
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./"
+}

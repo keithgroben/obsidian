@@ -11,10 +11,14 @@
             "id": "6cd3aa3c4a097f39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prospect Factory Book/00 - Front Matter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 - Front Matter"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prospect Factory Book/00 - Front Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 00 - Front Matter"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prospect Factory Book/00 - Front Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 00 - Front Matter"
             }
           },
           {
@@ -150,20 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Prospect Factory Book/00 - Front Matter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 00 - Front Matter"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,5 +183,43 @@
     }
   },
   "active": "6cd3aa3c4a097f39",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Prospect Factory Book/01 - The Importance of Prospecting.md",
+    "Sales Prospecting School Podcast/002 - How to Define Your Target Market.md",
+    "Concepts/Defining Your Target Market.md",
+    "Home.md",
+    "Prospect Factory Book/09 - Glossary/Glossary of Key Terms.md",
+    "Sales Prospecting School Podcast/Podcast Index.md",
+    "Sales Prospecting School Podcast/046 - The First Thing You Should Say on a Cold Call.md",
+    "Sales Prospecting School Podcast/045 - How to Not Fail with Prospecting.md",
+    "Sales Prospecting School Podcast/044 - How to Use Game Theory to Improve Your Prospecting.md",
+    "Sales Prospecting School Podcast/043 - How to Effectively Build and Qualify a List.md",
+    "Sales Prospecting School Podcast/042 - Listener Question - A Day in the Life of an Effective Prospector.md",
+    "Sales Prospecting School Podcast/041 - Cold Calling Tips, Scripts, and Objectives (Re-Release).md",
+    "Sales Prospecting School Podcast/040 - How to Create Your Script (Re-Release).md",
+    "Sales Prospecting School Podcast/039 - Your Most Important Metric.md",
+    "Sales Prospecting School Podcast/038 - Sales Prospecting - How to Annex Your Results.md",
+    "Sales Prospecting School Podcast/037 - Listener Questions - What's a Good Follow-Up Message.md",
+    "Sales Prospecting School Podcast/028 - Content Marketing Strategy for Lead Generation.md",
+    "Sales Prospecting School Podcast/034 - 10 Rules for Marketing Your Business.md",
+    "Sales Prospecting School Podcast/036 - Automation for Lead Generation.md",
+    "Sales Prospecting School Podcast/035 - 25 Call Outcomes and How to Handle Them.md",
+    "Sales Prospecting School Podcast/033 - Part 2 - Lead Generation Strategies.md",
+    "Sales Prospecting School Podcast/032 - Lead Generation Strategies - The Four Horsemen.md",
+    "Sales Prospecting School Podcast/031 - Sales Prospecting Letters - A 12-Step Template.md",
+    "Sales Prospecting School Podcast/030 - Sales Prospecting Superpower.md",
+    "Sales Prospecting School Podcast/029 - Cold Calling Tips, Scripts, and Objectives.md",
+    "Sales Prospecting School Podcast/027 - How to Write a Sales Letter for Prospecting.md",
+    "Sales Prospecting School Podcast",
+    "Prospect Factory Book/09 - Glossary",
+    "Prospect Factory Book/07 - Section 6 - Final Thoughts",
+    "Prospect Factory Book/06 - Section 5 - Following Up with Finished Leads",
+    "Prospect Factory Book/05 - Section 4 - Putting It All Together",
+    "Prospect Factory Book/04 - Section 3 - Making Calls for Your Prospect Factory",
+    "Prospect Factory Book/03 - Section 2 - Building a Prospect Factory",
+    "Prospect Factory Book/02 - Section 1 - A Quick Look at a Prospect Factory",
+    "Prospect Factory Book/cover.png",
+    "Prospect Factory Book",
+    "Concepts"
+  ]
 }
