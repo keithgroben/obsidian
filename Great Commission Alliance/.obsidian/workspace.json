@@ -11,10 +11,14 @@
             "id": "874243f6823e719e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "the message/The Great Commission is the Church's Mission.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Great Commission is the Church's Mission"
             }
           }
         ]
@@ -176,8 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "874243f6823e719e",
+  "active": "8083701b26391c48",
   "lastOpenFiles": [
+    "formation-not-information.md",
+    "the message/The Great Commission is the Church's Mission.md",
+    "the message",
     "The Great Commission Alliance.md",
     "The Great Commission Alliance Manifesto.md",
     "Landing Page.md"
