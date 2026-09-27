@@ -46,7 +46,7 @@
 - Found old King James Bible with brittle pages
 - Turned to Genesis - "In the beginning God"
 - **Instantly all panic and fear left**
-- This began his journey to faith
+- This began his journey to faith (salvation came later, at age 14 - see below)
 
 **Family Conversion to Christianity**:
 - Sometime after Keith's experience, he started asking his dad to go to church
@@ -59,6 +59,12 @@
 ---
 
 ## HIGH SCHOOL YEARS (1993-1997)
+
+**1993 (Age 14)**: KEITH GOT SAVED
+- **Age**: 14 (confirmed by Keith)
+- **Location**: Not far from Ely, Nevada (per book, Chapter 1)
+- **Note**: Turned 14 on July 22, 1993, so salvation falls between late July 1993 and July 1994; recorded as 1993
+- Shortly after, heard the call of God to pastor
 
 **Summer 1993 (Age 13-14)**: FATHER MOVED TO INDONESIA
 - **Father's Job**: Grasberg Mine, Indonesia (one of world's largest copper/gold mines)
@@ -2060,7 +2066,7 @@ Keith's current methodology for R7 Creative is based on balancing three entities
 - Age 5 (1984): Started kindergarten in Evansville, Indiana
 - Age 10-11 (1990): Family moved to Spring Creek, Nevada
 - Age 11-13 (1990-1993): Middle school in Nevada, family got saved
-- Age 14 (1993): Father moved to Indonesia, started Wasatch Academy
+- Age 14 (1993): Got saved (near Ely, NV), father moved to Indonesia, started Wasatch Academy
 - Age 18 (1997-1998): High school graduation, Durango, moved to Arizona
 - Age 19 (1998-1999): Masters Commission, reunion with Stacie
 - Age 20-21 (1999-2001): Pastors College, married Stacie
